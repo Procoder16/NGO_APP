@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "940442542816",
+    "project_id": "we-care-bd80e",
+    "storage_bucket": "we-care-bd80e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940442542816:android:5370b2a51ab7af0a37e685",
+        "android_client_info": {
+          "package_name": "com.example.do_good_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940442542816-2f7anfl464dd0ncrvfucjninicohr9ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.do_good_flutter",
+            "certificate_hash": "48be0e426dfdf02ddd29404873b81e2d74f428e1"
+          }
+        },
+        {
+          "client_id": "940442542816-sh7mk7evg91ud7dllcai6dejejc0o5ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABBYDNxWMC0gKZJ9vgoZcuD5EkjN_M7HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940442542816-sh7mk7evg91ud7dllcai6dejejc0o5ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
